@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Funora - Where Fun Begins!</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Funora 🎀</h1>
+<p><b>Where Fun Begins!</b></p>
+<p>Welcome to your little world of fun! ✨</p>
+</header>
+
+<main>
+<section class="card">
+<h2>🧠 Fun Questions</h2>
+<h3>🔬 Science Questions</h3>
+
+<details>
+<summary>1. Which planet is called the Red Planet?</summary>
+<p>Answer: Mars!</p>
+</details>
+
+<details>
+<summary>2. Which planet is the largest?</summary>
+<p>Answer: Jupiter!</p>
+</details>
+
+<details>
+<summary>3. What gas do humans need to breathe?</summary>
+<p>Answer: Oxygen!</p>
+</details>
+
+<details>
+<summary>4. What is the center of an atom called?</summary>
+<p>Answer: The nucleus!</p>
+</details>
+
+<h3>🌍 General Knowledge</h3>
+
+<details>
+<summary>5. How many days are in a week?</summary>
+<p>Answer: Seven!</p>
+</details>
+
+<details>
+<summary>6. What is the capital of Egypt?</summary>
+<p>Answer: Cairo!</p>
+</details>
+
+<details>
+<summary>7. How many colors are traditionally in a rainbow?</summary>
+<p>Answer: Seven!</p>
+</details>
+
+<details>
+<summary>8. Which animal is called the king of the jungle?</summary>
+<p>Answer: The lion!</p>
+</details>
+
+<h3>🤔 Think and Guess</h3>
+
+<details>
+<summary>9. What has hands but cannot clap?</summary>
+<p>Answer: A clock!</p>
+</details>
+
+<details>
+<summary>10. What has keys but cannot open doors?</summary>
+<p>Answer: A piano!</p>
+</details>
+
+<details>
+<summary>11. What gets wetter as it dries?</summary>
+<p>Answer: A towel!</p>
+</details>
+</section>
+
+<section class="card">
+<h2>✨ Amazing Facts</h2>
+<p>🐙 Octopuses have three hearts!</p>
+<p>🐝 Bees communicate through a waggle dance.</p>
+<p>🪐 Saturn has a beautiful system of rings.</p>
+<p>🦋 Butterflies have taste sensors on their feet.</p>
+</section>
+
+<section class="card">
+<h2>😂 Funny Corner</h2>
+
+<details>
+<summary>Why did the computer go to the doctor?</summary>
+<p>Because it had a virus! 😂</p>
+</details>
+
+<details>
+<summary>Why was the math book sad?</summary>
+<p>Because it had too many problems! 😆</p>
+</details>
+
+<details>
+<summary>Why did the student eat his homework?</summary>
+<p>Because the teacher said it was a piece of cake! 🍰</p>
+</details>
+</section>
+</main>
+
+<footer>
+<p><b>Made with love 💗</b></p>
+<p>Thank you for visiting Funora!</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,63 @@
+body {
+background-color: lavender;
+text-align: center;
+font-family: Arial, sans-serif;
+margin: 0;
+color: #55406b;
+}
+
+header {
+background-color: #e8d9ff;
+padding: 25px 15px;
+}
+
+h1 {
+color: purple;
+font-size: 38px;
+margin-bottom: 5px;
+}
+
+h2 {
+color: #b044a0;
+}
+
+h3 {
+color: purple;
+}
+
+.card {
+background-color: white;
+padding: 15px;
+margin: 18px auto;
+border-radius: 15px;
+max-width: 600px;
+width: 85%;
+box-sizing: border-box;
+box-shadow: 0 3px 8px #d5c3e8;
+}
+
+details {
+background-color: #fff0f7;
+padding: 12px;
+margin: 10px 0;
+border-radius: 10px;
+text-align: left;
+}
+
+summary {
+color: purple;
+cursor: pointer;
+font-weight: bold;
+}
+
+details p {
+color: #b04491;
+padding: 5px;
+}
+
+footer {
+background-color: #e8bde0;
+padding: 15px;
+margin-top: 25px;
+color: #59365d;
+}
